@@ -1,6 +1,6 @@
 # CVPR-2021-Interesting-Paper
 
-## Semi-Supervise Learning
+## Semi-Supervised Learning
 - [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_3DIoUMatch_Leveraging_IoU_Prediction_for_Semi-Supervised_3D_Object_Detection_CVPR_2021_paper.pdf)
 - [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](https://openaccess.thecvf.com/content/CVPR2021/papers/Wimbauer_MonoRec_Semi-Supervised_Dense_Reconstruction_in_Dynamic_Environments_From_a_Single_CVPR_2021_paper.pdf)
 - [Self-Supervised Wasserstein Pseudo-Labeling for Semi-Supervised ImageClassification](https://openaccess.thecvf.com/content/CVPR2021/papers/Taherkhani_Self-Supervised_Wasserstein_Pseudo-Labeling_for_Semi-Supervised_Image_Classification_CVPR_2021_paper.pdf)
