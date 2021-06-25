@@ -1,7 +1,11 @@
 # CVPR-2021-Interesting-Paper
 
 ## Semi-Supervise Learning
-
+- [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_3DIoUMatch_Leveraging_IoU_Prediction_for_Semi-Supervised_3D_Object_Detection_CVPR_2021_paper.pdf)
+- [MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera](https://openaccess.thecvf.com/content/CVPR2021/papers/Wimbauer_MonoRec_Semi-Supervised_Dense_Reconstruction_in_Dynamic_Environments_From_a_Single_CVPR_2021_paper.pdf)
+- [Self-Supervised Wasserstein Pseudo-Labeling for Semi-Supervised ImageClassification](https://openaccess.thecvf.com/content/CVPR2021/papers/Taherkhani_Self-Supervised_Wasserstein_Pseudo-Labeling_for_Semi-Supervised_Image_Classification_CVPR_2021_paper.pdf)
+- [Adaptive Consistency Regularization for Semi-Supervised Transfer Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Abuduweili_Adaptive_Consistency_Regularization_for_Semi-Supervised_Transfer_Learning_CVPR_2021_paper.pdf)
+- [Learning Invariant Representations and Risks for Semi-supervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Learning_Invariant_Representations_and_Risks_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.pdf)
 ## Point Cloud Segmentation
 - [LiDAR-based Panoptic Segmentation via Dynamic Shifting Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_LiDAR-Based_Panoptic_Segmentation_via_Dynamic_Shifting_Network_CVPR_2021_paper.pdf)
 - [4D Panoptic LiDAR Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Aygun_4D_Panoptic_LiDAR_Segmentation_CVPR_2021_paper.pdf)
